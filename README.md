@@ -26,6 +26,7 @@ Este projeto tem como objetivo conscientizar usuários leigos sobre os riscos de
 | **4. Desafio & Quiz** | Avaliação interativa de múltipla escolha para fixação de conceitos. | https://github.com/luc1hub/Digital-Security-IoT-and-Connected-Home/blob/main/Segutanca_Digital_Iot_Casa_Conectada_Booklet.pdf |
 | **5. Checklist de Segurança** | Guia rápido pré-instalação para novos dispositivos inteligentes. | https://github.com/luc1hub/Digital-Security-IoT-and-Connected-Home/blob/main/Segutanca_Digital_Iot_Casa_Conectada_Booklet.pdf |
 | **6. Infográfico Visual** | Material gráfico resumido para download e conscientização. | https://github.com/luc1hub/Digital-Security-IoT-and-Connected-Home/blob/main/Seguranca_Digital_Iot_Casa_Conectada_Infogr%C3%A1fico%20-%20Os%204%20Pilares%20da%20Casa%20Blindada%20(IoT).pdf |
+| **7. Documento Word do projeto** | Material gráfico sobre a proposta do projeto. | https://github.com/luc1hub/Digital-Security-IoT-and-Connected-Home/blob/main/Seguranca_Digital_Iot_Casa_Conectada_DocumentoWord.pdf |
 
 ---
 
